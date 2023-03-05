@@ -1,63 +1,62 @@
-"Number of Crimes by Hour of Day by Location Type"
-"Current date: 3/2/2023 4:39:27 PM (Eastern Standard Time)"
-"Measures: Number of Crimes"
-"Data source: Virginia_SS, Offense Data"
-"Incident Date: 2020"
-"Jurisdiction by Geography: Virginia"
-"Offense Type: All Offense Types"
-"Incident Hour of Day","6:00pm-8:59pm","9:00pm-11:59pm","12:00am-2:59am","3:00am-5:59am","6:00am-8:59am","9:00am-11:59am","12:00n-2:59pm","3:00pm-5:59pm",
-"Location Type"
-"All Location Types","62,921","55,076","51,554","18,955","27,814","43,079","60,270","63,532"
-"Residence/Home","26,149","24,274","23,217","8,757","13,272","18,330","24,203","24,015"
-"Commercial","13,616","8,010","8,762","3,638","5,433","10,441","16,663","17,140"
-"Air/Bus/Train Terminal","102","61","49","86","237","187","199","269"
-"Bank/Savings and Loan","135","58","497","42","278","521","767","480"
-"Bar/Nightclub","101","339","524","44","9","29","34","59"
-"Commercial/Office Building","684","391","722","248","651","857","987","1,129"
-"Convenience Store","1,930","1,838","1,691","946","829","1,341","1,719","1,811"
-"Department/Discount Store","3,312","691","669","263","786","2,275","4,342","4,648"
-"Drug Store/Doctor’s Office/Hospital","562","370","429","192","325","524","711","701"
-"Grocery/Supermarket","1,379","446","242","105","403","911","1,891","1,860"
-"Hotel/Motel/Etc.","1,326","1,558","1,572","769","676","1,117","1,140","1,118"
-"Liquor Store","518","90","48","39","12","107","521","615"
-"Rental Storage Facility","210","97","177","34","104","173","226","211"
-"Restaurant","1,065","895","757","221","252","498","796","885"
-"Service/Gas Station","642","678","685","352","401","520","672","656"
-"Specialty Store","871","253","424","164","302","926","1,710","1,593"
-"ATM Separate from Bank","17","6","33","4","14","25","41","42"
-"Auto Dealership New/Used","175","114","170","109","116","182","264","217"
-"Gambling Facility/Casino/Race Track","12","15","19","11","6","6","11","6"
-"Shopping Mall","575","110","54","9","32","242","632","840"
-"Educational Facility","506","453","532","124","876","1,452","1,633","986"
-"School/College(Historical Only)","18","6","4","5","31","55","48","22"
-"Daycare Facility","11","12","11","3","29","23","22","33"
-"School – College/University","222","299","291","48","137","223","268","297"
-"School – Elementary/Secondary","255","136","226","68","679","1,151","1,295","634"
-"Government/Public Building and other","1,169","829","1,096","328","621","1,117","1,387","1,517"
-"Church/Synagogue/Temple/Mosque","197","143","199","35","111","218","284","252"
-"Government/Public Building","247","158","431","104","224","427","508","470"
-"Jail/Prison/Penitentiary/Corrections Facility","147","158","199","127","125","196","157","178"
-"Amusement Park","18","3","2","1","2","5","5","9"
-"Arena/Stadium/Fairgrounds/Coliseum","12","11","10","1","6","8","12","22"
-"Military Installation","1","2","2","1","9","5","4","2"
-"Park/Playground","491","299","213","52","114","201","348","511"
-"Shelter – Mission/Homeless","20","34","22","4","12","23","29","20"
-"Tribal Lands","","1","","","","1","1","1"
-"Community Center","36","20","18","3","18","33","39","52"
-"Road/Parking/Camps","19,670","20,441","14,779","5,220","6,000","9,403","13,253","17,097"
-"Highway/Road/Alley/Street/Sidewalk","11,426","13,325","9,661","3,295","3,064","5,132","7,358","9,402"
-"Parking/Drop Lot/Garage","7,732","6,818","4,767","1,784","2,655","3,818","5,318","7,076"
-"Rest Area","5","7","10","8","6","7","6","9"
-"Field/Woods/Waterways/Camps","507","291","341","133","275","446","571","610"
-"Field/Woods","369","200","256","99","167","333","428","463"
-"Lake/Waterway/Beach","91","28","38","11","29","40","80","76"
-"Camp/Campground","29","48","33","12","17","39","41","58"
-"Dock/Wharf/Freight/Modal Terminal","18","15","14","11","62","34","22","13"
-"Construction/Industrial/Farm","238","87","191","53","234","253","309","539"
-"Construction Site","161","42","117","29","163","153","204","431"
-"Farm Facility","37","16","29","6","33","32","45","47"
-"Industrial Site","40","29","45","18","38","68","60","61"
-"Cyberspace","329","179","1,091","75","399","536","787","446"
-"Abandoned/Condemned Structure","18","13","21","6","12","15","33","36"
-"Other/Unknown","1,226","790","1,865","754","967","1,532","2,002","1,756"
-"Missing","","","","","","","",""
+Number of Crimes by Hour of Day by Location Type,,,,,,,,
+Measures: Number of Crimes,,,,,,,,
+"Data source: Virginia_SS, Offense Data",,,,,,,,
+Incident Date: 2020,,,,,,,,
+Jurisdiction by Geography: Virginia,,,,,,,,
+Offense Type: All Offense Types,,,,,,,,
+Incident Hour of Day,6:00pm-8:59pm,9:00pm-11:59pm,12:00am-2:59am,3:00am-5:59am,6:00am-8:59am,9:00am-11:59am,12:00n-2:59pm,3:00pm-5:59pm
+Location Type,,,,,,,,
+All Location Types,"62,921","55,076","51,554","18,955","27,814","43,079","60,270","63,532"
+Residence/Home,"26,149","24,274","23,217","8,757","13,272","18,330","24,203","24,015"
+Commercial,"13,616","8,010","8,762","3,638","5,433","10,441","16,663","17,140"
+Air/Bus/Train Terminal,102,61,49,86,237,187,199,269
+Bank/Savings and Loan,135,58,497,42,278,521,767,480
+Bar/Nightclub,101,339,524,44,9,29,34,59
+Commercial/Office Building,684,391,722,248,651,857,987,"1,129"
+Convenience Store,"1,930","1,838","1,691",946,829,"1,341","1,719","1,811"
+Department/Discount Store,"3,312",691,669,263,786,"2,275","4,342","4,648"
+Drug Store/Doctor’s Office/Hospital,562,370,429,192,325,524,711,701
+Grocery/Supermarket,"1,379",446,242,105,403,911,"1,891","1,860"
+Hotel/Motel/Etc.,"1,326","1,558","1,572",769,676,"1,117","1,140","1,118"
+Liquor Store,518,90,48,39,12,107,521,615
+Rental Storage Facility,210,97,177,34,104,173,226,211
+Restaurant,"1,065",895,757,221,252,498,796,885
+Service/Gas Station,642,678,685,352,401,520,672,656
+Specialty Store,871,253,424,164,302,926,"1,710","1,593"
+ATM Separate from Bank,17,6,33,4,14,25,41,42
+Auto Dealership New/Used,175,114,170,109,116,182,264,217
+Gambling Facility/Casino/Race Track,12,15,19,11,6,6,11,6
+Shopping Mall,575,110,54,9,32,242,632,840
+Educational Facility,506,453,532,124,876,"1,452","1,633",986
+School/College(Historical Only),18,6,4,5,31,55,48,22
+Daycare Facility,11,12,11,3,29,23,22,33
+School – College/University,222,299,291,48,137,223,268,297
+School – Elementary/Secondary,255,136,226,68,679,"1,151","1,295",634
+Government/Public Building and other,"1,169",829,"1,096",328,621,"1,117","1,387","1,517"
+Church/Synagogue/Temple/Mosque,197,143,199,35,111,218,284,252
+Government/Public Building,247,158,431,104,224,427,508,470
+Jail/Prison/Penitentiary/Corrections Facility,147,158,199,127,125,196,157,178
+Amusement Park,18,3,2,1,2,5,5,9
+Arena/Stadium/Fairgrounds/Coliseum,12,11,10,1,6,8,12,22
+Military Installation,1,2,2,1,9,5,4,2
+Park/Playground,491,299,213,52,114,201,348,511
+Shelter – Mission/Homeless,20,34,22,4,12,23,29,20
+Tribal Lands,,1,,,,1,1,1
+Community Center,36,20,18,3,18,33,39,52
+Road/Parking/Camps,"19,670","20,441","14,779","5,220","6,000","9,403","13,253","17,097"
+Highway/Road/Alley/Street/Sidewalk,"11,426","13,325","9,661","3,295","3,064","5,132","7,358","9,402"
+Parking/Drop Lot/Garage,"7,732","6,818","4,767","1,784","2,655","3,818","5,318","7,076"
+Rest Area,5,7,10,8,6,7,6,9
+Field/Woods/Waterways/Camps,507,291,341,133,275,446,571,610
+Field/Woods,369,200,256,99,167,333,428,463
+Lake/Waterway/Beach,91,28,38,11,29,40,80,76
+Camp/Campground,29,48,33,12,17,39,41,58
+Dock/Wharf/Freight/Modal Terminal,18,15,14,11,62,34,22,13
+Construction/Industrial/Farm,238,87,191,53,234,253,309,539
+Construction Site,161,42,117,29,163,153,204,431
+Farm Facility,37,16,29,6,33,32,45,47
+Industrial Site,40,29,45,18,38,68,60,61
+Cyberspace,329,179,"1,091",75,399,536,787,446
+Abandoned/Condemned Structure,18,13,21,6,12,15,33,36
+Other/Unknown,"1,226",790,"1,865",754,967,"1,532","2,002","1,756"
+Missing,,,,,,,,
